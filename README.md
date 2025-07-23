@@ -1,4 +1,4 @@
 # my-todoapp
 This is my first Git Repository
 <br>
-Author - M Faiq
+Author - M Faiq Coder
